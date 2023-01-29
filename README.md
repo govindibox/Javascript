@@ -1,4 +1,4 @@
-# Variable - Variable - let
+# Javascript - let
 
 ![1](https://user-images.githubusercontent.com/73581999/215330595-60b556b8-78aa-4121-8dd6-085994cfb494.png)
 ![2](https://user-images.githubusercontent.com/73581999/215330599-4558f04c-9b4d-485a-937d-f706b755beaf.png)
@@ -6,7 +6,7 @@
 ![4](https://user-images.githubusercontent.com/73581999/215330605-36c41d28-4965-4463-b4e6-1af13ed1c1ad.png)
 ![5](https://user-images.githubusercontent.com/73581999/215330612-2c4d00dd-8e99-47ef-913a-acf089132072.png)
 
-# Javascript - Variable - Const
+# Javascript - Const
 ![1](https://user-images.githubusercontent.com/73581999/215331375-913c15d6-4f4d-4463-983a-1289f9bd65d8.png)
 ![2](https://user-images.githubusercontent.com/73581999/215331390-3e1cb1d1-12dd-48e7-af31-aabe72756eb1.png)
 ![3](https://user-images.githubusercontent.com/73581999/215331397-c31c680f-9368-4ebf-9287-7f5a1ddfafb0.png)
