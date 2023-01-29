@@ -30,5 +30,5 @@
 #Javascript - Function
 ![1](https://user-images.githubusercontent.com/73581999/215340233-908076c3-d034-4f77-8b74-44b8b6d28443.png)
 ![2](https://user-images.githubusercontent.com/73581999/215340239-da043c1a-099d-4d5a-b3c1-92c898ee7276.png)
-![3](https://user-images.githubusercontent.com/73581999/215340243-e69ada1b-4c6a-499f-9385-37d50794b35c.png)
+![3](https://user-images.githubusercontent.com/73581999/215340702-81822cde-9265-4049-880a-9c5547adfee1.png)
 ![4](https://user-images.githubusercontent.com/73581999/215340249-38426b40-c34c-4e49-bef6-c8aeb8887281.png)
