@@ -33,3 +33,10 @@
 ![2](https://user-images.githubusercontent.com/73581999/215340239-da043c1a-099d-4d5a-b3c1-92c898ee7276.png)
 ![3](https://user-images.githubusercontent.com/73581999/215340702-81822cde-9265-4049-880a-9c5547adfee1.png)
 ![4](https://user-images.githubusercontent.com/73581999/215340249-38426b40-c34c-4e49-bef6-c8aeb8887281.png)
+
+# Javascript - Operators
+![1](https://user-images.githubusercontent.com/73581999/215344918-c523f77a-8948-4716-82e2-f68992701767.png)
+![2](https://user-images.githubusercontent.com/73581999/215344960-3c9baddf-22b0-4510-9ef2-9153b725e094.png)
+![3](https://user-images.githubusercontent.com/73581999/215344966-169525a7-3d8d-4480-a0ce-52448c061dfe.png)
+![4](https://user-images.githubusercontent.com/73581999/215344972-c2235df6-c8ed-4ae2-bfe2-734931f5cf44.png)
+
