@@ -19,3 +19,10 @@
 ![3](https://user-images.githubusercontent.com/73581999/215331965-041a0f97-724f-461c-87f9-8fea5800208e.png)
 ![4](https://user-images.githubusercontent.com/73581999/215331990-11843609-c8d7-4d0b-809e-08b4eb4c46a9.png)
 ![5](https://user-images.githubusercontent.com/73581999/215332461-e3d8eb87-20ef-4736-9471-0d4b26d2d89e.png)
+
+# Javascript-array
+![1](https://user-images.githubusercontent.com/73581999/215332168-5c18571d-600c-4030-8663-c2036e7cc895.png)
+
+![2](https://user-images.githubusercontent.com/73581999/215332169-5b906a1e-bc49-41d2-91c9-cd30e34d7a08.png)
+![3](https://user-images.githubusercontent.com/73581999/215332172-87fa692b-c1c8-4e20-8129-0a3a705173ea.png)
+![4](https://user-images.githubusercontent.com/73581999/215332175-3e1b70ca-ba5e-45b2-a006-59cb26a671a1.png)
